@@ -7,7 +7,7 @@ const about = (req, res) => {
       consequat. Fusce maximus sem eget felis tincidunt porta. Curabitur fermentum elit mi, \
       varius malesuada tellus pharetra a. In accumsan tortor nec mi vehicula, ut dignissim nisi\
       tempus. Suspendisse ac consequat mi, ac vehicula odio. Vivamus sollicitudin dolor ante, \
-      ac viverra augue laoreet quis. Integer fringilla ac quam eget lacinia. Ut nunc tellus, \
+      \n\n ac viverra augue laoreet quis. Integer fringilla ac quam eget lacinia. Ut nunc tellus, \
       dictum vitae sagittis non, tempor ut ante. Phasellus tempor vulputate nunc, sit amet tempor nisi mattis sed. \
       Suspendisse eget erat ante. Integer efficitur turpis vitae ligula aliquam, quis ultricies dui pulvinar. \
       Pellentesque volutpat dignissim arcu ut tristique. Praesent lobortis eget dolor et malesuada. \
